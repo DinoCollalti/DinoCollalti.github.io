@@ -1,11 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+I am a postdoctoral research fellow at the Center for Regional Economic Development (CRED) at the University of Bern. 
 
-I’m a third year PhD Candidate in Economics and Climate Science at the University of Bern. My main research interest is the economic quantification of extreme climate weather events. I employ methods from the natural sciences and use remote sensing information to create original data for my economic modelling.
+My research approaches regional economic development from both an environmental economists and climate scientists perspective. I am particularly interested in tourism economics and the economic impacts of extreme weather. 
