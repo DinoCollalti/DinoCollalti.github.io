@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="files/CV_DC.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
