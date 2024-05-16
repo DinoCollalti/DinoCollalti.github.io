@@ -14,13 +14,13 @@ My main research interest is in the effect of climate, weather and geography on 
 
 
 ## Working Papers
-### The Economic Dynamics after a Flood: Evidence from Satellite Data (R&R at Environmental and Resource Economics) <small>[<a href="/files/Floods_Ntls.pdf" download>Download</a>]</small>
+### The Economic Dynamics after a Flood: Evidence from Satellite Data (R&R at Environmental and Resource Economics) <small>[<a href="/files/Flood_Ntls.pdf" download>Download</a>]</small>
 This study investigates the effect of flash floods on local economic activity in Central America and the Caribbean. I measure these rarely analyzed floods by constructing a high-resolution, physically based index of flash flood occurrence from satellite data and connect these to changes in local night light emissions. After accounting for tropical cyclone activity, flash floods have a delayed, short-term negative effect on economic activity. In countries with a low to medium human development index (HDI), the average effect can be up to -5.7% in the following months. Back-of-the-envelope calculations suggest that flash floods in these countries cause GDP growth to be 0.84 percentage points lower due to their high frequency. Countries with higher development appear more resilient and are only marginally affected. Also, flash floods exhibit a peculiar spatial spillover pattern where the effect is overall negative but less so if more nearby locations are affected. 
 </small><br><br/>
 </div>
 
 
-### Flash Flood Hazard: an Economic Analysis of Firms in Central America and the Caribbean <small>
+### Flash Flood Hazard: an Economic Analysis of Firms in Central America and the Caribbean<small>[<a href="/files/Flood_Firm.pdf" download>Download</a>]</small>
 This paper studies the effect of nearby flash floods on firms' establishment performance in Central America and the Caribbean. To this end, I physically define flash flood occurrences from satellite rainfall data across countries and connect them with geo-located establishment survey data. I find that a flash flood significantly decreases sales and the number of employees but increases capital productivity. This decrease in output and employment is driven by establishments where financial market access is considered an obstacle to operations, whereas the increased capital productivity occurs in establishments where it is not. The construction sector is the only industry affected differently, with no negative effect on output or employment. Overall, my results suggest that flash floods negatively impact firms and that their increase in frequency and intensity due to global warming threatens economic development. Improving financial market access is an effective adaptation strategy to increase establishments' resilience.
 </small><br><br/>
 </div>
