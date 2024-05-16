@@ -2,9 +2,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Dino Collalti"
 title_separator          : "-"
-name                     : ""
+name                     : "Dino Collalti"
 description              : &description "personal description"
 url                      : https://DinoCollalti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
