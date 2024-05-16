@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="files/CV_DC.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<embed src="https://DinoCollalti.github.io/files/CV_DC.pdf" type="application/pdf" />
+
 
 
 Education
