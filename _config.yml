@@ -6,7 +6,7 @@ title                    : ""
 title_separator          : "-"
 name                     : ""
 description              : &description "personal description"
-url                      : "https://DinoCollalti.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://DinoCollalti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
