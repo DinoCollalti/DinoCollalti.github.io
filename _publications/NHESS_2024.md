@@ -3,12 +3,12 @@ title: "Flash flood detection via copula-based intensity–duration–frequency 
 collection: publications
 permalink: /publication/NHESS_2024
 excerpt: 'This methodology delivers a flexible approach to generating rainfall IDF curves that can directly be used to assess flash flood risk.'
-date: 2024-02-01
+date: 2024-03-14
 venue: 'Natural Hazards and Earth System Science'
-paperurl: 'https://doi.org/10.1007/s11069-021-05025-9'
-citation: 'Collalti, Dino, and Eric Strobl. "Economic damages due to extreme precipitation during tropical storms: evidence from Jamaica." Natural Hazards 110.3 (2022): 2059-2086.'
+paperurl: 'https://doi.org/10.5194/nhess-24-873-2024'
+citation: 'Collalti, Dino, Nekeisha Spencer, and Eric Strobl. "Flash flood detection via copula-based intensity–duration–frequency curves: evidence from Jamaica." Natural Hazards and Earth System Sciences 24.3 (2024): 873-890.'
 ---
 
-[Download paper here](https://link.springer.com/article/10.1007/s11069-021-05025-9)
+[Download paper here](https://nhess.copernicus.org/articles/24/873/2024/nhess-24-873-2024.html)
 
-Collalti, Dino, and Eric Strobl. "Economic damages due to extreme precipitation during tropical storms: evidence from Jamaica." Natural Hazards 110.3 (2022): 2059-2086.
+Collalti, Dino, Nekeisha Spencer, and Eric Strobl. "Flash flood detection via copula-based intensity–duration–frequency curves: evidence from Jamaica." Natural Hazards and Earth System Sciences 24.3 (2024): 873-890.
