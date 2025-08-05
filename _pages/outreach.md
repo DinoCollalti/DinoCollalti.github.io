@@ -5,12 +5,6 @@ permalink: /outreach/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
 
 ## Projects
 ### Co-project lead in the project [STEPS Smart Tourism Evaluation, Prediction and Sustainable Development](https://www.cred-t.unibe.ch/forschung/forschungsprojekte/steps/steps/index_ger.html)
