@@ -1,9 +1,8 @@
-# main links links
+# main links
 main:
-
   - title: "Research"
     url: /research/
-      - title: "Projects and Outreach"
+  - title: "Projects and Outreach"
     url: /outreach/
   - title: "CV"
     url: /cv/
