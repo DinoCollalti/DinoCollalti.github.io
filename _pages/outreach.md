@@ -9,7 +9,6 @@ author_profile: true
 ## Projects
 ### Co-project lead in the project [STEPS Smart Tourism Evaluation, Prediction and Sustainable Development](https://www.cred-t.unibe.ch/forschung/forschungsprojekte/steps/steps/index_ger.html)
 In this project, we set out to understand how tourism movement and activity patterns can be better managed. These practical findings will be used to provide targeted support for sustainable development in the case study regions.
-## Outreach
 
 ## Outreach
 Here are some of my recent media appearances:
