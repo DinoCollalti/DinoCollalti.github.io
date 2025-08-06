@@ -10,9 +10,11 @@ author_profile: true
 {% endif %}
 
 ## Publications
-<ul>{% for post in site.publications %}
+<div style="font-size: 1rem;">
+  {% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+</div>
 
 ## Work in Progress
 ### Tourism and the Economy: Evidence from Switzerland's Development [with Deborah Lendi] 
