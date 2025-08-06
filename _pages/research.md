@@ -2,7 +2,8 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+collection: publications
+author_profile: false
 ---
 
 {% if site.author.googlescholar %}
@@ -10,11 +11,9 @@ author_profile: true
 {% endif %}
 
 ## Publications
-<div style="font-size: 1rem;">
-  {% for post in site.publications %}
+<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}
-</div>
+  {% endfor %}</ul>
 
 ## Work in Progress
 ### Tourism and the Economy: Evidence from Switzerland's Development [with Deborah Lendi] 
