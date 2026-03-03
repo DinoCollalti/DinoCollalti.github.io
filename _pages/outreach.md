@@ -6,13 +6,14 @@ author_profile: true
 ---
 
 
+
+## Outreach
+Here are some of my recent media and presentation appearances:
+- **"Wirtschaftsraum Bern Wirtschaftsmonitoring 2025"** – Präsentation des Wirtschaftsmonitoring 2025 am jährlichen Event mit Regionalisierung des BIP's in die einzelnen Wirtschaftsräume und Analyse der Exporte, Februar 2026 [Link](https://www.wirtschaftsraum.bern.ch/de/events/rueckblick/rueckblick_input-events/)
+- **"Die Wirkung von Grossevents am Beispiel der Rad-WM 2024"** –Beitrag in *Die Volkswirtschaft* mit  *Monika Bandi*, Juli 2025. [Link](https://dievolkswirtschaft.ch/de/2025/07/die-wirkung-von-grossevents-am-beispiel-der-rad-wm-2024/ )
+- **"Beitrag Schweizer Jahrbuch für Tourismus 2024/2025"** – Beitrag zu "Risiken der Inflationsentwicklung auf die touristische Nachfrage - Rückkehr des Geists vergangener Jahre?" mit *Monika Bandi* und *Dominic Beutler", März 2025 [Link](https://www.esv.info/978-3-503-24052-4)
+- **"Wirtschaftsraum Bern Wirtschaftsmonitoring 2024"** – Präsentation des Wirtschaftsmonitoring 2024 am jährlichen Event mit Regionalisierung des BIP's in die einzelnen Wirtschaftsräume und Analyse der Baubewilligungen, Februar 2025 [Link](https://www.wirtschaftsraum.bern.ch/de/events/rueckblick/rueckblick_input-events/)
+
 ## Projects
 ### Co-project lead in the project [STEPS Smart Tourism Evaluation, Prediction and Sustainable Development](https://www.cred-t.unibe.ch/forschung/forschungsprojekte/steps/steps/index_ger.html)
 In this project, we set out to understand how tourism movement and activity patterns can be better managed. These practical findings will be used to provide targeted support for sustainable development in the case study regions.
-
-## Outreach
-Here are some of my recent media appearances:
-
-- **"Die Wirkung von Grossevents am Beispiel der Rad-WM 2024"** –Beitrag in *Die Volkswirtschaft* mit  *Monika Bandi*, Juli 2025. [Link](https://dievolkswirtschaft.ch/de/2025/07/die-wirkung-von-grossevents-am-beispiel-der-rad-wm-2024/ )
-- **"Beitrag Schweizer Jahrbuch für Tourismus 2024/2025"** – Beitrag zu "Risiken der Inflationsentwicklung auf die touristische Nachfrage - Rückkehr des Geists vergangener Jahre?" mit *Monika Bandi* und *Dominic Beutler", März 2025 [Link](https://www.esv.info/978-3-503-24052-4)
-- **"Wirtschaftsraum Bern Wirtschaftsmonitoring 2024"** – Präsentation des Wirtschaftsmonitoring 2024 am jährlichen Event, Februar 2025 [Link](https://www.wirtschaftsraum.bern.ch/de/events/rueckblick/rueckblick_input-events/)
