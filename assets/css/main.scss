@@ -39,3 +39,17 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.pub-list li {
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
+.pub-list h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0.2rem;
+}
+
+.pub-list p {
+  font-size: 1.05rem;
+}
